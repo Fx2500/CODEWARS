@@ -1,1 +1,1 @@
-A repository for my Codewars challenges.
+A morse code decoder based on Codewars challenge.
